@@ -1,5 +1,9 @@
 # GXW Launcher — скриншоты
 
+## Презентация GXW Launcher
+
+![GXW Launcher](presentations/gxw-launcher-0.1.14.png)
+
 ## Презентация сборки MineCraft Battle
 
 ![MineCraft Battle](presentations/minecraft-battle-2.1.0.png)
